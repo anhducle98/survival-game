@@ -1,0 +1,5 @@
+obj/
+Build/
+Temp/
+.vscode/
+Logs/
